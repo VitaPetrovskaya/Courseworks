@@ -1,0 +1,28 @@
+﻿<Window x:Class="Course_work_game.WindowRecipe"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Course_work_game"
+        mc:Ignorable="d"
+        Title="WindowRecipe" Height="400" Width="600" Loaded="Window_Loaded">
+    <Grid>
+        <Label x:Name="lableName" Content="" HorizontalAlignment="Center" Margin="30,10,21.333,0" VerticalAlignment="Top" FontFamily="Bodoni Bd BT" FontSize="18" Width="542" Foreground="#FF5284C0" RenderTransformOrigin="0.969,0.625" Height="33"/>
+        <Image x:Name="Img0" Source="Recources/Breakfast0.jpg" Margin="15,43,210.333,142.667" Visibility="Hidden"/>
+        <Image x:Name="Img1" Source="Recources/Breakfast1.jpg" Margin="15,43,210.333,142.667" Visibility="Hidden"/>
+        <Image x:Name="Img2" Source="Recources/Breakfast2.jpg" Margin="15,43,210.333,142.667" Visibility="Hidden"/>
+        <Image x:Name="Img3" Source="Recources/Breakfast3.jpg" Margin="15,43,210.333,142.667" Visibility="Hidden"/>
+        <Image x:Name="Img4" Source="Recources/Breakfast4.jpg" Margin="15,43,210.333,142.667" Visibility="Hidden"/>
+        <Image x:Name="Img5" Source="Recources/Breakfast5.jpg" Margin="15,43,210.333,142.667" Visibility="Hidden"/>
+        <Image x:Name="Img6" Source="Recources/Breakfast6.jpg" Margin="15,43,210.333,142.667" Visibility="Hidden"/>
+        <Image x:Name="Img7" Source="Recources/Lunch0.jpg" Margin="15,43,210.333,142.667" Visibility="Hidden"/>
+        <Image x:Name="Img8" Source="Recources/Lunch1.jpg" Margin="15,43,210.333,142.667" Visibility="Hidden"/>
+        <Image x:Name="Img9" Source="Recources/Lunch2.jpg" Margin="15,43,210.333,142.667" Visibility="Hidden"/>
+        <Image x:Name="Img10" Source="Recources/Lunch3.jpg" Margin="15,43,210.333,142.667" Visibility="Hidden"/>
+        <Image x:Name="Img11" Source="Recources/Dinner0.jpg" Margin="15,43,210.333,142.667" Visibility="Hidden"/>
+        <Image x:Name="Img12" Source="Recources/Dinner1.jpg" Margin="15,43,210.333,142.667" Visibility="Hidden"/>
+        <Image x:Name="Img13" Source="Recources/Dinner2.jpg" Margin="15,43,210.333,142.667" Visibility="Hidden"/>
+        <Image x:Name="Img14" Source="Recources/Dinner3.jpg" Margin="15,43,210.333,142.667" Visibility="Hidden"/>
+        <RichTextBox x:Name="text" Margin="363,61,10.333,34.667" />
+    </Grid>
+</Window>

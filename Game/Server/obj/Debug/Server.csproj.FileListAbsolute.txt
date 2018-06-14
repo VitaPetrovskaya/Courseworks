@@ -1,0 +1,16 @@
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\Course_work_battleship\Server\bin\Debug\DB_players.mdf
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\Course_work_battleship\Server\bin\Debug\DB_players_log.ldf
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\Course_work_battleship\Server\bin\Debug\Server.exe.config
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\Course_work_battleship\Server\bin\Debug\Server.exe
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\Course_work_battleship\Server\bin\Debug\Server.pdb
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\Course_work_battleship\Server\obj\Debug\Server.exe
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\Course_work_battleship\Server\obj\Debug\Server.pdb
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\Course_work_battleship\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\Course_work_NEW\Server\bin\Debug\DB_players.mdf
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\Course_work_NEW\Server\bin\Debug\DB_players_log.ldf
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\Course_work_NEW\Server\bin\Debug\Server.exe.config
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\Course_work_NEW\Server\bin\Debug\Server.exe
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\Course_work_NEW\Server\bin\Debug\Server.pdb
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\Course_work_NEW\Server\obj\Debug\Server.exe
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\Course_work_NEW\Server\obj\Debug\Server.pdb
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\Course_work_NEW\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache

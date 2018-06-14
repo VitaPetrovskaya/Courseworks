@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Course_work_game", "Course_work_battleship\Course_work_game.csproj", "{88A5B47F-05E9-4E8E-90FE-699AA3DB694D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "Server\Server.csproj", "{27C8AD05-90BC-42E1-AF68-BE0A1428994D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88A5B47F-05E9-4E8E-90FE-699AA3DB694D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88A5B47F-05E9-4E8E-90FE-699AA3DB694D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88A5B47F-05E9-4E8E-90FE-699AA3DB694D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88A5B47F-05E9-4E8E-90FE-699AA3DB694D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27C8AD05-90BC-42E1-AF68-BE0A1428994D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27C8AD05-90BC-42E1-AF68-BE0A1428994D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27C8AD05-90BC-42E1-AF68-BE0A1428994D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27C8AD05-90BC-42E1-AF68-BE0A1428994D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
